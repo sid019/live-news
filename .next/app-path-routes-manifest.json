@@ -1,0 +1,6 @@
+{
+  "/article/page": "/article",
+  "/news/[category]/page": "/news/[category]",
+  "/page": "/",
+  "/search/page": "/search"
+}
